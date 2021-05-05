@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Premier League</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="text_cancel_button">cancel</string>
+    <string name="text_login_button">Login</string>
+    <string name="arsenal_des">Arsenal Football Club is a professional football club based in
+        Islington, London, England that plays in the Premier League, the top flight of English
+        football. The club has won 13 league titles (including one unbeaten title), a record 14 FA Cups,
+        two League Cups, 16 FA Community Shields, the League Centenary Trophy, one European Cup Winners\' Cup,
+        and one Inter-Cities Fairs Cup.</string>
+
+    <string name="manunited_description">Manchester United Football Club is a professional football
+        club based in Old Trafford, Greater Manchester, England, that competes in the Premier League,
+        the top flight of English football. Manchester United have won more trophies than any other club in English football,
+        with a record 20 League titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields.
+        United have also won three European Cups/UEFA Champions Leagues, one UEFA Europa League,
+        one UEFA Cup Winners\' Cup, one UEFA Super Cup, one Intercontinental Cup and one FIFA Club World Cup.</string>
+
+    <string name="liverpool_desc">Liverpool Football Club is a professional football club in Liverpool,
+        England, that competes in the Premier League, the top tier of English football. Domestically,
+        the club has won nineteen League titles, seven FA Cups, a record eight League Cups and fifteen
+        FA Community Shields. In international competitions, the club has won six European Cups, more
+        than any other English club, three UEFA Cups, four UEFA Super Cups (also English records) and
+        one FIFA Club World Cup.</string>
+
+    <string name="mancity_desc">Manchester City Football Club is an English football club based in Manchester
+        that competes in the Premier League, the top flight of English football.
+        Founded in 1880 as St. Marks (West Gorton), it became Ardwick Association Football Club in 1887
+        and Manchester City in 1894.
+        The club\'s home ground is the Etihad Stadium in east Manchester, to which it moved in 2003,
+        having played at Maine Road since 1923. The club adopted their sky blue home shirts in 1894
+        in the first season of the club\'s current iteration, that have been used ever since.</string>
+
+    <string name="spurs_desc">Tottenham Hotspur Football Club, commonly referred to as Tottenham or Spurs,
+        is an English professional football club in Tottenham, London, that competes in the Premier League.
+        Tottenham Hotspur Stadium has been the clubs home ground since April 2019, replacing their
+        former home of White Hart Lane, which had been demolished to make way for the new stadium
+        on the same site. Their training ground is on Hotspur Way in Bulls Cross in the London Borough
+        of Enfield. The club is owned by ENIC Group. Tottenham have played in a first (home) strip of
+        white shirts and navy blue shorts since the 1898–99 season. The club\'s emblem is a cockerel
+        standing upon a football, with a Latin motto Audere est Facere (\"To Dare Is to Do\").</string>
+
+    <string name="chelsea_desc">Chelsea Football Club is an English professional football club based in
+        Fulham, London. Founded in 1905, the club competes in the Premier League, the top division of
+        English football. Chelsea are among England\'s most successful clubs, having won over thirty
+        competitive honours, including six league titles and six European trophies. Their home ground
+        is Stamford Bridge.</string>
+
+<string name="astonvilla_desc">Aston Villa Football Club is an English professional football club based in Aston, Birmingham.
+    The club competes in the Premier League, the top tier of the English football league system.
+    Founded in 1874, they have played at their home ground, Villa Park, since 1897. Aston Villa were
+    one of the founder members of the Football League in 1888 and of the Premier League in 1992.
+    Villa are one of only five English clubs to have won the European Cup, in 1981–82.
+    They have also won the Football League First Division seven times, the FA Cup seven times,
+    the League Cup five times, and the European (UEFA) Super Cup once</string>
+
+    <string name="leicester_desc">Leicester City Football Club is a professional football club based in
+        Leicester in the East Midlands, England. The club competes in the Premier League,
+        the top division of England\'s football league system, and plays its home matches at the King
+        Power Stadium. Leicester won the 2015–16 Premier League, their first top tier title, becoming
+        one of seven clubs to have won the Premier League since its inception in 1992.
+        A number of newspapers described Leicester\'s title win as the greatest sporting shock ever;
+        multiple bookmakers had never paid out at such long odds for any sport.
+        As a result, the team was dubbed \"The Unbelievables\", a spin-off harking back to Arsenal\'s
+        undefeated team \"The Invincibles\"</string>
+
+    <string name="newcastle_desc">Newcastle United Football Club is an English professional football club
+        based in Newcastle upon Tyne, Tyne and Wear, that plays in the Premier League, the top flight of
+        English football. Founded in 1892 by the merger of Newcastle East End and Newcastle West End.
+        The team plays its home matches at St. James\' Park. Per the Taylor Report\'s requirement that
+        all Premier League clubs have an all-seater stadium, the ground was adjusted in the mid-1990s
+        and now has a capacity of 52,305.</string>
+    <string name="welcome_to_the_premier_league">Welcome to The Premier League</string>
+
+</resources>
